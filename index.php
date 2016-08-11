@@ -9,6 +9,7 @@
 	</style>
 </head>
 <body>
+<p>Пример: http://shop.by/avto/zapchasti/</p>
 <input type="text" class="url" placeholder="Введите адрес категории shop.by" size="40" /><button name="btn" class="btn">Поехали</button><br/><br/>
 <div class="results"></div>
 
